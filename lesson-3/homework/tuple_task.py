@@ -1,4 +1,4 @@
-1 Count Occurrences: Given a list and an element, find how many times the element appears in the list.
+#1 Count Occurrences: Given a list and an element, find how many times the element appears in the list.
 t=(6,1,7,4,5,6,1,1,2,1,1,3,8,8)
 print("1 lar soni",t.count(1), ta)
 
@@ -22,4 +22,3 @@ if bool(my_list)==False:
     print('list bosh')
 elif bool(my_list)==True:
     print('listning birinchi elementi:',my_list[0])  
-
